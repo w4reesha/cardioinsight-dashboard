@@ -2,6 +2,9 @@
 
 An interactive Streamlit-based simulation tool that visualizes cardiac rhythm variability and demonstrates how heart rate patterns change under different conditions.
 
+## 🚀 Live App
+[Click here to use the CardioInsight Dashboard]https://cardioinsight-dashboard.streamlit.app/
+
 ## Features
 - Simulates heart rhythm patterns (Normal, Stress, Irregular)
 - Computes HRV metrics (SDNN, RMSSD)
